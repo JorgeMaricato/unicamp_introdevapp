@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Unicamp_w3_spinner</string>
+    <string name="clickme">Click Me</string>
+
+    <string-array name="spinner_values">
+        <item>Pera</item>
+        <item>Uva</item>
+        <item>Maça</item>
+        <item>Salada Mista</item>
+    </string-array>
+</resources>
