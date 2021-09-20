@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Unicamp_w3_listview</string>
+
+    <string-array name="listview_values">
+        <item>Amarelo</item>
+        <item>Azul</item>
+        <item>Vermelho</item>
+        <item>Roxo</item>
+    </string-array>
+</resources>
