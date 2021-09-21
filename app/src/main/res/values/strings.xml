@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Unicamp_w4_layouttypes</string>
+    <string name="action_settings">Settings</string>
+    <string name="to_label">Para: </string>
+    <string name="to_hint">Destinatários</string>
+    <string name="message">Escreva a mensagem aqui</string>
+    <string name="send">Enviar</string>
+
+    <string name="relative_layout">Relative Layout</string>
+    <string name="linear_layout">Linear Layout</string>
+    <string name="grid_layout">Grid Layout</string>
+
+</resources>
