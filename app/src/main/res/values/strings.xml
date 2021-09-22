@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Quiz!</string>
+
+    <!-- Main -->
+    <string name="start_button">Começar!</string>
+    <string name="difficulties_text">Selecione o Nível:</string>
+    <string-array name="difficulties">
+        <item>Nível Fácil</item>
+        <item>Nível Intermediário</item>
+        <item>Nível Difícil</item>
+    </string-array>
+
+    <!-- Question -->
+    <string name="check_answer">Confirmar</string>
+    <string name="answer_right">Acertou!</string>
+    <string name="answer_wrong">Errou!</string>
+    <string name="ending_text">Finalizar</string>
+    <string name="question_title">Pergunta %1$d/%2$d</string>
+    <string name="final_score_title">Pontuação</string>
+    <string name="final_score_text">Acertos: %1$d/%2$d.</string>
+
+</resources>
