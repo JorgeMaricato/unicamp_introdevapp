@@ -1,0 +1,66 @@
+<resources>
+    <!-- Question: Database -->
+    <string name="question_1">Qual destes vegetais não é uma fruta?</string>
+    <string-array name="answers_1">
+        <item>Figo</item>
+        <item>Tomate</item>
+        <item>Uva</item>
+        <item>Pepino</item>
+    </string-array>
+    <string name="correct_1">Figo</string>
+
+    <string name="question_2">Que ano faleceu Machado de Assis?</string>
+    <string-array name="answers_2">
+        <item>1921</item>
+        <item>1888</item>
+        <item>1900</item>
+        <item>1908</item>
+    </string-array>
+    <string name="correct_2">1908</string>
+
+    <string name="question_3">Qual é a capital do Suriname?</string>
+    <string-array name="answers_3">
+        <item>Paramaribo</item>
+        <item>Caiena</item>
+        <item>Georgetown</item>
+        <item>Stanley</item>
+    </string-array>
+    <string name="correct_3">Paramaribo</string>
+
+    <string name="question_4">Quando ocorre o \"Solstício estival\"?</string>
+    <string-array name="answers_4">
+        <item>22 de Abril</item>
+        <item>21 de Junho</item>
+        <item>22 de Setembro</item>
+        <item>21 de Dezembro</item>
+    </string-array>
+    <string name="correct_4">21 de Dezembro</string>
+
+    <string name="question_5">Qual foi o ano de lançamento do filme \"O Auto da Compadecida\"?</string>
+    <string-array name="answers_5">
+        <item>1999</item>
+        <item>2000</item>
+        <item>1997</item>
+        <item>2002</item>
+    </string-array>
+    <string name="correct_5">2000</string>
+
+    <string name="question_6">Qual destes animais não é um mamífero?</string>
+    <string-array name="answers_6">
+        <item>Ornitorrinco</item>
+        <item>Morcego</item>
+        <item>Tubarão</item>
+        <item>Diabo-da-tasmânia</item>
+    </string-array>
+    <string name="correct_6">Tubarão</string>
+
+    <string name="question_7">Quantas cores tem a bandeira da Tailândia?</string>
+    <string-array name="answers_7">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>7</item>
+    </string-array>
+    <string name="correct_7">3</string>
+
+</resources>
